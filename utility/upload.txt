@@ -1,3 +1,1 @@
-echo "ABCD"
-echo "EFG"
-echo "DFG"
+"echo Upload file"
